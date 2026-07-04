@@ -1,0 +1,5 @@
+# Build artifacts produced by install.sh / iasl
+*.aml
+*.cpio
+*.hex
+build/
