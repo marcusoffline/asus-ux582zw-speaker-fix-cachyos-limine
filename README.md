@@ -14,7 +14,8 @@ Feel free to feed this to an AI model to adapt for your setup, as it was origina
 2. Place install-limine.sh in your Downloads folder.
 3. Run the following command in Terminal/Konsole.
    
-   cd ~/Downloads
+cd ~/Downloads
+
 sudo bash install-limine.sh
 
 4. **Reboot.** Speakers work.
