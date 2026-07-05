@@ -10,7 +10,7 @@ This repo gives a script to fix it.
 
 Feel free to feed this to an AI model to adapt for your setup, as it was originally designed for CachyOS Handheld Edition running on Limine bootloader.
 
-1. **Disable Secure Boot** in your UEFI/BIOS ([why](#step-0-disable-secure-boot-required)).
+1. **Disable Secure Boot** in your UEFI/BIOS.
 2. Place install-limine.sh in your Downloads folder.
 3. Run the following command in Terminal/Konsole.
    
