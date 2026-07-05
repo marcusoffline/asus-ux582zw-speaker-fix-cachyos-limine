@@ -19,5 +19,6 @@ cd ~/Downloads
 sudo bash install-limine.sh
 
 4. **Reboot.** Speakers work.
+   
 
 Huge thanks to CodingButter again, for the original fix!
